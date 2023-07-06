@@ -2,7 +2,7 @@
 
 ⭐ I’m interested in UI/UX design, Web design, Web development, Mobile App Development, Digital Art, Video Games
 
-⭐ Goals: 
+⭐ Personal Project Goals: 
   - Develop a Database based on the game "Lobotomy Corporation"
   - Develop an music-based bot
   - Develop a small mobile game
