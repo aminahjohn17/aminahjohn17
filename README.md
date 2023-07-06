@@ -1,8 +1,6 @@
-⭐ Hi, I’m @aminahjohn17
-
 ⭐ How to reach me: aminahjohn189@gmail.com
 
-⭐ I’m interested in Web & Mobile App Development, Digital Art, Video Games
+⭐ I’m interested in UI/UX design, Web design, Web development, Mobile App Development, Digital Art, Video Games
 
 ⭐ Goals: 
   - Develop a Database based on the game "Lobotomy Corporation"
